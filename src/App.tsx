@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home/Home';
-import Detail from './pages/Detail';
 import Navbar from './components/Navbar/Navbar';
+import Detail from './pages/Detail/Detail';
 
 
 const App: React.FC = () => {

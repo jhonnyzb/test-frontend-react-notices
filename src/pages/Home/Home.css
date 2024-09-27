@@ -110,6 +110,16 @@
     .section_home_grid {
         grid-template-columns: 1fr;
     }
+
+    .header_home {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .section_home {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     .section_home_one {
         width: 100%;
     }
